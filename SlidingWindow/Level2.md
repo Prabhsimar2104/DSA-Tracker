@@ -1,4 +1,4 @@
-# Level 1 - Sliding Window
+# Level 2 - Sliding Window
 
 - [ ] Binary Subarrays With Sum (Leetcode - 930)
 - [ ] Number of Subarrays with Bounded Maximum (Leetcode-795)
